@@ -11,5 +11,7 @@ When I clicked Run, the error happened and it was shown as below:
 > at [unknown function](コード:191:23)
 
 Well, at last I decide to ignore this problem.
-The code does not have logical problem, and I guess the API is not stable.
+
+The code does not have any logical problem, and I guess the API is not stable.
+
 I mean the same function was executed frequently and it may need time to make sure all the things take effect. 
